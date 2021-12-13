@@ -1,4 +1,14 @@
 - commits:
+    - subject: Throw error on uncaught execpetion of request.send
+      hash: b2b1ec724485663711e565a849285b578ff22b4c
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: fisehara
+  version: 7.2.1
+  date: 2021-12-13T13:51:42.099Z
+- commits:
     - subject: Support `supervisorVersion`/`osVersion`/`osVariant`/`macAddress` fields
       hash: 6f10fe77ba11ec57bb012777975423dda498a8bd
       body: ''

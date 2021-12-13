@@ -5,6 +5,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [5.0.0] - 2018-01-25
 
+# v7.2.1
+## (2021-12-13)
+
+* Throw error on uncaught execpetion of request.send [fisehara]
+
 # v7.2.0
 ## (2021-04-29)
 
